@@ -1,0 +1,16 @@
+[info] Fast optimizing D:\Projects\scalajs-hello-world\target\scala-2.12\scalajs-hello-world-fastopt.js
+[debug] Linker: Compute reachability: 271029 us
+[debug] Linker: Assemble LinkedClasses: 565565 us
+[debug] Basic Linking: 852389 us
+[debug] Inc. optimizer: Batch mode: true
+[debug] Inc. optimizer: Incremental part: 196757 us
+[debug] Inc. optimizer: Optimizing 843 methods.
+[debug] Inc. optimizer: Optimizer part: 781805 us
+[debug] Inc. optimizer: 992888 us
+[debug] Refiner: Compute reachability: 80173 us
+[debug] Refiner: Assemble LinkedClasses: 9582 us
+[debug] Refiner: 92601 us
+[debug] Emitter: Class tree cache stats: reused: 43 -- invalidated: 51
+[debug] Emitter: Method tree cache stats: resued: 0 -- invalidated: 117
+[debug] Emitter (write output): 382953 us
+[debug] Global IR cache stats: reused: 0 -- invalidated: 4 -- trees read: 257

@@ -1,0 +1,10 @@
+[info] Running App
+[debug] with JSEnv ExternalJSEnv for Node.js
+[debug] Starting process: node
+[error] org.scalajs.jsenv.ExternalJSEnv$NonZeroExitException: Node.js exited with code 1
+[error] 	at org.scalajs.jsenv.ExternalJSEnv$AbstractExtRunner.waitForVM(ExternalJSEnv.scala:126)
+[error] 	at org.scalajs.jsenv.ExternalJSEnv$ExtRunner.run(ExternalJSEnv.scala:176)
+[error] 	at org.scalajs.sbtplugin.ScalaJSPluginInternal$.jsRun(ScalaJSPluginInternal.scala:814)
+[error] 	at org.scalajs.sbtplugin.ScalaJSPluginInternal$.$anonfun$scalaJSRunSettings$22(ScalaJSPluginInternal.scala:970)
+[error] 	at org.scalajs.sbtplugin.ScalaJSPluginInternal$.$anonfun$scalaJSRunSettings$22$adapted(ScalaJSPluginInternal.scala:963)
+[error] 	at scala.Function1.$anonfun$compose$1(Function1.scala:44)

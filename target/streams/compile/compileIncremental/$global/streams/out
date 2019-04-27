@@ -1,0 +1,28 @@
+[debug] 
+[debug] Initial source changes: 
+[debug] 	removed:Set()
+[debug] 	added: Set()
+[debug] 	modified: Set(D:\Projects\scalajs-hello-world\src\main\scala\App.scala)
+[debug] Invalidated products: Set()
+[debug] External API changes: API Changes: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated classes: Set(App)
+[debug] 
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set()
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] All sources are invalidated.
+[debug] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources
+[info] Compiling 1 Scala source to D:\Projects\scalajs-hello-world\target\scala-2.12\classes ...
+[debug] Getting org.scala-sbt:compiler-bridge_2.12:1.2.5:compile for Scala 2.12.8
+[debug] Getting org.scala-sbt:compiler-bridge_2.12:1.2.5:compile for Scala 2.12.8
+[debug] [zinc] Running cached compiler 788b0050 for Scala compiler version 2.12.8
+[debug] [zinc] The Scala compiler is invoked with:
+[debug] 	-Xplugin:C:\Users\alecc\.ivy2\cache\org.scala-js\scalajs-compiler_2.12.8\jars\scalajs-compiler_2.12.8-0.6.27.jar
+[debug] 	-bootclasspath
+[debug] 	D:\Programs\Java\jdk1.8.0_212\jre\lib\resources.jar;D:\Programs\Java\jdk1.8.0_212\jre\lib\rt.jar;D:\Programs\Java\jdk1.8.0_212\jre\lib\sunrsasign.jar;D:\Programs\Java\jdk1.8.0_212\jre\lib\jsse.jar;D:\Programs\Java\jdk1.8.0_212\jre\lib\jce.jar;D:\Programs\Java\jdk1.8.0_212\jre\lib\charsets.jar;D:\Programs\Java\jdk1.8.0_212\jre\lib\jfr.jar;D:\Programs\Java\jdk1.8.0_212\jre\classes;C:\Users\alecc\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.8.jar
+[debug] 	-classpath
+[debug] 	D:\Projects\scalajs-hello-world\target\scala-2.12\classes;C:\Users\alecc\.ivy2\cache\org.scala-js\scalajs-library_2.12\jars\scalajs-library_2.12-0.6.27.jar;C:\Users\alecc\.ivy2\cache\org.scala-js\scalajs-dom_sjs0.6_2.12\jars\scalajs-dom_sjs0.6_2.12-0.9.6.jar
+[debug] Scala compilation took 6.2094001 s
+[info] Done compiling.
